@@ -93,3 +93,5 @@ print(" ")
 print("                TERIMAKASIH TELAH BERBELANJA                        ")
 print("               SEMOGA HARI ANDA SELALU BAHAGIA                      ")
 print(" ")
+
+print("Rangga ganteng")
